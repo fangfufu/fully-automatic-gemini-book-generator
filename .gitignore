@@ -172,3 +172,38 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+# Virtual Environment
+venv/
+.venv/
+
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+*.egg
+
+# IDE / Editor specific (optional, examples)
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS generated files (optional)
+.DS_Store
+Thumbs.db
+
+# Sensitive information (e.g., API keys - VERY IMPORTANT)
+.env
+secrets.py
+
+# Generated output files (we might adjust this later)
+*.pdf
+*.docx
+output/
