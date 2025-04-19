@@ -16,19 +16,19 @@ This project uses the Google Gemini API to automatically generate a draft manusc
 
 ## Project Structure
 
-fully-automatic-gemini-book-generator/
-├── .env                  # Stores your API key (MUST be gitignored)
-├── .git/                 # Git repository data
-├── .gitignore            # Specifies intentionally untracked files by Git
-├── api_cache/            # Stores cached API responses (MUST be gitignored)
-├── config.py             # User configuration for the book generation
-├── fonts/                # Stores downloaded DejaVu TTF fonts
-├── output/               # Default directory for generated PDF and DOCX files
-├── venv/                 # Python virtual environment files (Should be gitignored)
-├── main.py               # Main script to run the book generation
-├── setup_fonts.py        # Script to download necessary fonts (run automatically by main.py)
-├── requirements.txt      # Lists Python package dependencies
-└── README.md             # This file
+    fully-automatic-gemini-book-generator/
+    ├── .env                  # Stores your API key (MUST be gitignored)
+    ├── .git/                 # Git repository data
+    ├── .gitignore            # Specifies intentionally untracked files by Git
+    ├── api_cache/            # Stores cached API responses (MUST be gitignored)
+    ├── config.py             # User configuration for the book generation
+    ├── fonts/                # Stores downloaded DejaVu TTF fonts
+    ├── output/               # Default directory for generated PDF and DOCX files
+    ├── venv/                 # Python virtual environment files (Should be gitignored)
+    ├── main.py               # Main script to run the book generation
+    ├── setup_fonts.py        # Script to download necessary fonts (run automatically by main.py)
+    ├── requirements.txt      # Lists Python package dependencies
+    └── README.md             # This file
 
 
 ## Setup Instructions
