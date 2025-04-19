@@ -207,3 +207,7 @@ secrets.py
 *.pdf
 *.docx
 output/
+fonts/
+
+# Cache directory for API calls
+api_cache/
