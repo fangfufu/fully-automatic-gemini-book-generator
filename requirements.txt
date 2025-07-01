@@ -19,7 +19,7 @@ idna==3.10
 lxml==5.3.2
 markdown-it-py==3.0.0
 mdurl==0.1.2
-pillow==11.2.1
+pillow==11.3.0
 proto-plus==1.26.1
 protobuf==5.29.4
 pyasn1==0.6.1
