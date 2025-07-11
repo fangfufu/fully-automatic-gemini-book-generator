@@ -21,7 +21,7 @@ markdown-it-py==3.0.0
 mdurl==0.1.2
 pillow==11.3.0
 proto-plus==1.26.1
-protobuf==5.29.4
+protobuf==5.29.5
 pyasn1==0.6.1
 pyasn1_modules==0.4.2
 pydantic==2.11.3
